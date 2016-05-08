@@ -1,0 +1,99 @@
+1,Formate assay in body fluids: application in methanol poisoning.,1989,Tephly T R|McMartin K E|
+10,Digitoxin metabolism by rat liver microsomes.,1990,McMartin K E|Palese M|
+100,Bovine mannosidosis--a model lysosomal storage disease.,1990,Tephly T R|Makar A B|
+1000,The amino acid sequence of Neurospora NADP-specific glutamate dehydrogenase. The tryptic peptides.,1991,McMartin K E|Makar A B|Palese M|
+10000,A new method for the determination of alpha1-protease inhibitor (alpha1-antitrypsin) phenotypes based on the formation of alpha1-protease inhibitor allele product-elastase complexes.,1991,Tephly T R|Makar A B|
+100000,Drugs and the high cost of health care.,1992,Palese M|Schmoldt A|Benthe H F|
+1000000,DNA- and RNA-dependent DNA polymerases: progressive changes in rabbit endometrium during preimplantation stage of pregnancy.,1992,Palese M|Makar A B|
+1000001,Competitive effect of magnesium on the calcium-dependent acrosome reaction in guinea pig spermatozoa.,1992,Schmoldt A|Makar A B|Benthe H F|
+1000002,Development of capacity to secrete progesterone-induced protein by the porcine uterus.,1992,McMartin K E|Makar A B|Tephly T R|
+1000003,A survey of sperm potassium and sodium concentrations in the tubular fluid of the hamster epididymis.,1992,Schmoldt A|Benthe H F|
+1000004,Incorporation of [3H] uridine by mouse embryos with abnormalities induced by parental hyperthermia.,1993,Makar A B|Palese M|
+1000005,Strain differences in the in vitro fertilizing capacity of mouse spermatozoa as tested in various media.,1993,Makar A B|McMartin K E|Benthe H F|
+1000006,A delayed antagonistic effect of progesterone on the estradiol-induced differentiation of the oviductal epithelium in spayed cats.,1993,Makar A B|Tephly T R|
+1000007,Plasma concentration changes in LH and FSH following electrochemical stimulation of the medial preoptic are or dorsal anterior hypothalamic area of estrogen- or androgen-sterilized rats.,1993,Makar A B|
+1000008,Binding of steroids by intact bovine sperm.,1993,Schmoldt A|Winchester B G|
+1000009,Effects of physiological levels of exogenous steroids on metabolism of testicular cauda epididymal and ejaculated bovine sperm.,1994,Tephly T R|Palese M|
+100001,Surgical approach for patients with unstable angina pectoris: role of the response to initial medical therapy and intraaortic balloon pumping in perioperative complications after aortocoronary bypass grafting.,1994,Makar A B|Winchester B G|Jackson A A|
+1000010,Steroid production by the bovine testis and steroid transfer across the pampiniform plexus.,1994,Makar A B|Winchester B G|
+1000011,Immunological evidence of uteroglobin (blastokinin) in the male reproductive tract and in nonreproductive ductal tissues and their secretions.,1994,Makar A B|Ducimetiere P|
+1000012,Medical and social-medical aspects of the treatment with the artificial kidney (author's transl).,1994,Makar A B|
+1000013,Hemodialysis technique with dialysatregeneration by absorption and ion exchange (author's transl).,1994,Makar A B|Chambers G K|Fincham J R|
+1000014,Technical aspects of a diafiltration process (author's transl).,1995,Chambers G K|Tyndall R L|Dieter K|
+1000015,Capillary membranes for blood diafiltration (author's transl).,1995,Ducimetiere P|Argemi B|
+1000016,The association of ""e"" antigen and ""e"" antibody with type B virus hepatitis.,1995,Makar A B|Tephly T R|Palese M|
+1000017,Development of a short term assay for lymphoblastic transformation in man.,1995,Wootton J C|
+1000018,Neonatal polycythemia in low birthweight infant.,1995,Makar A B|Ducimetiere P|Argemi B|Stojanova D|
+1000019,Is there evidence for subclasses of chronic lymphocytic leukemia? A study using numerical classification techniques.,1995,Makar A B|Kuhlmann W|Wootton J C|
+100002,Value and limitations of the electrocardiographic response to exercise in the assessment of patients with coronary artery disease. Controversies in cardiology--II.,1995,Makar A B|Dieter K|Stojanova D|
+1000020,Ultrastructure biological study and culture of C-cell carcinoma of the thyroid gland.,1995,Makar A B|Ducimetiere P|Tephly T R|
+1000021,A long-term effect of adult thymectomy on cortisone sensitivity and alkaline RNAse activity of murine lymphoid cells.,1995,Makar A B|Tephly T R|Stojanova D|
+1000022,Uptake of aluminium ion by the liver.,1995,McMartin K E|Dieter K|Kuhlmann W|
+1000023,Bilirubin and paranitrophenol glucuronyl transferase activities and ultrastructural aspect of the liver in patients with chronic hemolytic anemias.,1995,McMartin K E|Tephly T R|
+1000024,Human liver corticosterone receptors.,1995,Dieter K|Wootton J C|Fincham J R|
+1000025,Alteration in the uptake and storage of cardiac noradrenaline in spontaneously hypertensive rats.,1995,Baumstark J S|Jackson A A|
+1000026,Fetal intestinal disaccharidases in human amniotic fluid.,1996,Makar A B|Wootton J C|
+1000027,Measurement of cell growth by a rapid U.V. spectrophotometric method.,1996,Makar A B|Jackson A A|Kuhlmann W|
+1000028,Plasma prolactin response to L-dopa TRH and metaclopramide in thyrotoxicosis.,1996,Makar A B|Fincham J R|Stojanova D|
+1000029,Bidimensional immunoelectrophoresis in three stages (semi micromethod).,1996,Haberland G|Roffe B D|
+100003,Group G streptococcal endocarditis.,1996,Makar A B|Tephly T R|Baumstark J S|
+1000030,Anti-adrenocortical activity of SKF 12185 and SKF 252 A.,1996,Makar A B|Wootton J C|Benthe H F|
+1000031,A possible physiological function of lysozyme.,1996,Makar A B|Fincham J R|Taylor J G|
+1000032,Elevated CEA levels in polyvinyl chloride workers.,1996,Makar A B|Dieter K|Kuhlmann W|
+1000033,Effect of 24 hour fast in obese children.,1996,Tephly T R|Jackson A A|
+1000034,Study on the composition of casein from individual human milks.,1997,Makar A B|
+1000035,Miniature chromatography of haemoglobin A2 and heterozygous beta thalassemia.,1997,Makar A B|
+1000036,Relationship of blood and saliva lactate and pyruvate concentrations.,1997,Makar A B|Kuhlmann W|
+1000037,Artefacts due to sodium dodecylsulfate polyacrylamide gel electrophoresis in the study of human erythrocyte membrane calcium binding protein.,1997,Makar A B|Tephly T R|McMartin K E|Palese M|
+1000038,Rat leukaemia cell line grown on a chemically defined medium.,1997,Makar A B|Dieter K|Kuhlmann W|Stojanova D|
+1000039,Primary carcinoma of the colon and hyperlipemia: a paraneoplastic syndrome.,1997,Makar A B|Stojanova D|
+100004,A modification of the automated immune precipitin method for quantitation of human serum immunoglobulins.,1997,Makar A B|Jackson A A|Fincham J R|
+1000040,Oestrogen receptors in male breast cancer.,1997,Makar A B|Wootton J C|
+1000041,Study of two cases of bisalbuminemia by electrofocusing.,1997,Tephly T R|
+1000042,Immunological study of hydatidosis. I. Evaluation of the test of immuno-electrodiffusion in the humoral study of human hydatidosis.,1997,Fincham J R|Baumstark J S|
+1000043,Duodenal calcium-binding protein (CaBP) and phosphorus deprivation in growing rats.,1997,Taylor J G|Tyndall R L|Jackson A A|
+1000044,Kinetics of proflavin binding to bacteriophages T2L and T4D.,1998,Makar A B|Jackson A A|
+1000045,Synthesis of a cross-linked polypentapeptide of tropoelastin.,1998,Makar A B|Dieter K|Kuhlmann W|
+1000046,Protein conformation in bacterial spinae.,1998,Makar A B|Tephly T R|Fincham J R|
+1000047,Transition temperature and enthalpy change dependence on stabilizing and destabilizing ions in the helix-coil transition in native tendon collagen.,1998,Makar A B|
+1000048,The application of polyelectrolyte limiting laws to the helix-coil transition of DNA. VI. The numerical value of the axial phosphate spacing for the coil form.,1998,Makar A B|Stojanova D|
+1000049,A configurational interpretation of the axial phosphate spacing in polynucleotide helices and random coils.,1998,Makar A B|Baumstark J S|
+100005,Ossifying fibroma of long bone.,1998,Makar A B|Tyndall R L|
+1000050,Study of thermal denaturation of lysozyme and other glubular proteins by light-scattering spectroscopy.,1998,Makar A B|Dieter K|Kuhlmann W|
+1000051,Vibrational analysis of peptides polypeptides and proteins. I. Polyglycine I.,1998,Makar A B|Fincham J R|Taylor J G|Wootton J C|Stojanova D|
+1000052,Vibrational analysis of peptides polypeptides and proteins. II. beta-poly(L-alanine) and beta-poly(L-anaylglycine).,1998,Fincham J R|Wootton J C|Lamy P P|
+1000053,Conformational energy calculations of enzyme-substrate complexes of lysozyme. I. Energy minimization of monosaccharide and oligosaccharide inhibitors and substrates of lysozyme.,1998,Lamy P P|Jackson A A|Kuhlmann W|
+1000054,Conformational studies of peptides. The crystal structures of N-acetyl-L-prolinamide and N-acetyl-(S)-thiazolidine-4-carboxamide.,1998,Jackson A A|Benthe H F|Thompson K G|
+1000055,Chemical ionization mass spectrometry of polyunsaturated fatty acids of human serum.,1998,Lamy P P|Stojanova D|
+1000056,The structure of narasin and a related ionophore.,1998,Tephly T R|McMartin K E|Fincham J R|
+1000057,Electron impact mass spectrometry of some ketosugar derivatives.,1998,McMartin K E|Schmoldt A|
+1000058,Determined of bufuralol and its metabolites in plasma by mass fragmentography and by gas chromatography with electron capture detection.,1998,Schmoldt A|Fincham J R|
+1000059,The direct determination of oestrogen and progesterone in human ovarian tissue by quantitative high resolution mass spectrometry.,1999,Makar A B|Ducimetiere P|
+100006,Shils's solution interaction with potassium phosphate sodium phosphate and calcium gluceptate in 8% amino acid solution.,1999,Makar A B|
+1000060,Aromatic hydroxylation of ellipticine in rats: lack of an NIH shift.,1999,Tephly T R|McMartin K E|Makar A B|
+1000061,A model for ionization mechanisms in field desorption mass spectrometry.,1999,Makar A B|Jackson A A|Stojanova D|
+1000062,Physical and chemical pretreatments for enhancing cellulose saccharification.,1999,Makar A B|Baumstark J S|
+1000063,Cellulosic substrates for enzymatic saccharification.,1999,Makar A B|Kuhlmann W|
+1000064,Remarks on saccharifaction technology.,1999,Makar A B|Tephly T R|Ducimetiere P|Argemi B|
+1000065,Measurement of saccharifying cellulase.,1999,Makar A B|Dieter K|Fincham J R|
+1000066,Saccharification technology.,1999,Makar A B|Palese M|
+1000067,Timber wood  residues and wood pulpas sources of cellulose.,1999,Makar A B|Thompson K G|Taylor J G|
+1000068,Agricultural residues including feedlot wastes.,1999,Tephly T R|McMartin K E|Benthe H F|
+1000069,The potential of food processing solid wastes as a source of cellulose for enzymatic conversion.,1999,Dieter K|Jackson A A|
+100007,Stability of nitroglycerin solutions in Viaflex plastic containers.,1999,Fincham J R|Taylor J G|
+1000070,Cellulose saccharification as an alternate source of glucose for commercial and food use.,1999,Taylor J G|Jackson A A|
+1000071,Cellulose saccharification for fermentation industry. Applications.,1999,Palese M|Baumstark J S|
+1000072,Chemicals from lignocellulose.,2000,Makar A B|McMartin K E|Palese M|
+1000073,Potential applications for cellulase enzymes.,2000,Makar A B|
+1000074,Fermentation ethyl alcohol.,2000,Makar A B|
+1000075,Applications: summary.,2000,Makar A B|Dieter K|Fincham J R|Taylor J G|
+1000076,Properties of cellulose and lignocellulosic materials as substrates for enzymatic conversion processes.,2000,Makar A B|Ducimetiere P|
+1000077,The clotting of the lysed white cells of Limulus induced by endotoxin--I: Preparation and characterization of clot-forming proteins.,2000,Makar A B|Schmoldt A|Benthe H F|
+1000078,Erythrocyte sedimentation of human blood at varying shear rates.,2000,Makar A B|Jackson A A|Ducimetiere P|
+1000079,Theory of non-Newtonian viscosity of blood at low shear rate--effect of rouleaux.,2000,Makar A B|Thompson K G|Fincham J R|
+100008,Rationale for adding trace elements to total parenteral nutrient solutions--a brief review.,2000,Makar A B|Dieter K|Benthe H F|Winchester B G|
+1000080,An interpretation of low strain rate blood viscosity measurements: a continuum approach.,2000,Makar A B|Winchester B G|Jackson A A|
+1000081,Red cell-red cell interactions as a probe in analyzing erythrocyte mutual attraction and resistance to deformation.,2000,Makar A B|Tephly T R|McMartin K E|Palese M|
+1000082,Monocyte-mediated antibody-dependent cellular cytotoxicity: a clinical test of monocyte function.,2000,Tephly T R|Taylor J G|Baumstark J S|
+1000083,Steroids and hematopoiesis. III. The response of granulocytic and erythroid colony-forming cells to steroids of different classes.,2000,Palese M|Ducimetiere P|Argemi B|
+1000084,The effect of chelating agents on iron mobilization in Chang cell cultures.,2000,Jolly R D|Hammerstedt R H|

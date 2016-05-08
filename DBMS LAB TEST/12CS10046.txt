@@ -1,0 +1,36 @@
+create table Publications( PubID VARCHAR(30), title VARCHAR(300), year INTEGER ,CONSTRAINT PRIMARY KEY pk (PubID));
+create table Authors( AuthorID VARCHAR(30), AuthorName VARCHAR(30),CONSTRAINT PRIMARY KEY pk2 (AuthorID));
+CREATE TABLE Publish( PubID VARCHAR(30), AuthorID VARCHAR(30),CONSTRAINT FOREIGN KEY fk1(PubID)  REFERENCES Publications(PubID),CONSTRAINT FOREIGN KEY fk2(AuthorID) REFERENCES Authors(AuthorID));
+
+
+
+create view pubaut as(select * from Publications natural join Publish natural join Authors);
+
+1) 
+create view max_year as (select count(*) as count from pubaut group by year,AuthorName order by count desc limit 1);
+select year,AuthorName ,count(*) as count from pubaut group by year,AuthorName having count in (select count from max_year);
+
+
+2)
+
+create view year as (select year,AuthorName ,count(*) from pubaut group by year,AuthorName);
+
+select * from year as S 
+where exists(select * from year where AuthorName = S.AuthorName and year = 1989) 
+and exists(select * from year where AuthorName = S.AuthorName and year = 1990) 
+and exists(select * from year where AuthorName = S.AuthorName and year = 1991) 
+and exists(select * from year where AuthorName = S.AuthorName and year = 1992) 
+and exists(select * from year where AuthorName = S.AuthorName and year = 1993) 
+and exists(select * from year where AuthorName = S.AuthorName and year = 1994) 
+and exists(select * from year where AuthorName = S.AuthorName and year = 1995) 
+and exists(select * from year where AuthorName = S.AuthorName and year = 1996) 
+and exists(select * from year where AuthorName = S.AuthorName and year = 1997) 
+and exists(select * from year where AuthorName = S.AuthorName and year = 1998) 
+and exists(select * from year where AuthorName = S.AuthorName and year = 1999) 
+and exists(select * from year where AuthorName = S.AuthorName and year = 2000); 
+
+
+3)
+create view AA as(select S.AuthorName as author1,T.AuthorName as author2, count(*) as count from pubaut as S, pubaut as T where S.AuthorName != T.AuthorName and strcmp(S.AuthorName,T.AuthorName) = 1 and S.PubID = T.PubID group by author1,author2);
+
+select * from AA as S where not exists(select * from AA where author1 = S.author1 and author2 != S.author2);
